@@ -1,6 +1,6 @@
  # 💫 About Me:
 
-🚀 **Frontend Engineer** specializing in **React, TypeScript, Next.js**, and **GraphQL**. Passionate about **UI/UX optimization**, **performance improvements**, and **scalable web applications**.
+🚀 **Frontend Engineer** specializing in **React, TypeScript, Next.js**, and **GraphQL**.
 
 ---
 

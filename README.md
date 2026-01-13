@@ -6,7 +6,6 @@ Daily **Neovim** user. I care about solid workflows and use **AI-assisted coding
 
 Outside of work: rock climbing, biking, and occasional attempts at stoic calm — with varying success.
 
----
 
 ## Connect
 

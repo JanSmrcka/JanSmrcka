@@ -6,7 +6,7 @@ Frontend Engineer specializing in React, TypeScript, Next.js, and GraphQL.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jan-smrcka)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jan-smrcka)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@jansmrcka.dev)
 
 ---
 
@@ -24,9 +24,3 @@ Frontend Engineer specializing in React, TypeScript, Next.js, and GraphQL.
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=JanSmrcka&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JanSmrcka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

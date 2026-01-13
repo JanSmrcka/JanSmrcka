@@ -1,6 +1,10 @@
-# About Me
+## About Me
 
-Frontend Engineer specializing in React, TypeScript, Next.js, and GraphQL.
+Frontend Engineer working with React, TypeScript, and Next.js. I like code that’s easy to read, easy to change, and doesn’t surprise anyone in production.
+
+Daily **Neovim** user. I care about solid workflows and use **AI-assisted coding** to save time, not to avoid thinking.
+
+Outside of work: rock climbing, biking, and occasional attempts at stoic calm — with varying success.
 
 ---
 
